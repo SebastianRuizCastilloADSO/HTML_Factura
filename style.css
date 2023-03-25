@@ -1,0 +1,192 @@
+body{
+    background: #ffffff;
+}
+h2{
+    background: #ffffff;
+    position: relative;
+    top: -40px;
+    left:400px;
+    font-family: sans-serif;
+    color: rgb(39, 42, 88);
+    font-size: 50px;
+    letter-spacing: 1px;
+}
+.contenedor{
+    position: relative;
+    top: -90px;
+    left: 350px;
+    background: rgb(81, 206, 255);
+    width: 300px;
+    height: 20px;
+    border-radius: 40px;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 1px;
+
+}
+
+.datos{
+    background: #ffffff;
+    position: relative;
+    top: 10px;
+    left: -400px;
+    display: inline-block;
+    height: 110px;
+    width: 120px;
+    color: #000;
+    text-align: center;
+    letter-spacing: 1px;
+}
+.ggg{
+    background: rgb(39, 42, 88);
+    position: relative;
+    top: 20px;
+    left: -300px;
+    width: 500px;
+    height: 20px;
+    border-radius: 40px;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 6px;
+}
+.empresa{
+    background: rgb(39, 42, 88);
+    position: relative;
+    top: 180px;
+    left: 30px;
+    display: inline-block;
+    height: 80px;
+    width: 170px;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 1px;
+    z-index: 1;
+}
+.one{
+    background: #fff;
+    position: relative;
+    left: -300px;
+    top: 30px;
+    width: 500px;
+    letter-spacing: 4.3px;
+    color: #000;
+    text-align: left;
+}
+.two{
+    background: #fff;
+    position: relative;
+    left: -300px;
+    top: 40px;
+    width: 500px;
+    letter-spacing: 1.5px;
+    color: #000;
+    text-align: left;
+}
+.three{
+    background: #fff;
+    position: relative;
+    left: -300px;
+    top: 50px;
+    width: 500px;
+    letter-spacing: 1.5px;
+    color: #000;
+    text-align: left;
+}
+.four{
+    background: #fff;
+    position: relative;
+    left: -300px;
+    top: 60px;
+    width: 500px;
+    letter-spacing: 1.5px;
+    color: #000;
+    text-align: left;
+}
+.five{
+    background: #fdfdfd;
+    position: relative;
+    left: -300px;
+    top: 70px;
+    width: 500px;
+    letter-spacing: 1.5px;
+    color: #000;
+    text-align: left;
+}
+.terms{
+    background: #fff;
+    position: relative;
+    left: -300px;
+    top: 150px;
+    height: 80px;
+    width: 200px;
+    color: #000;
+}
+.Imagen1{
+    position: relative;
+    top: -70px;
+    left: 40px;
+}
+.Imagen3{
+    position: relative;
+    top: 40px;
+}
+.Imagen2{
+    position: relative;
+    top: 5px;
+    left: -59.99%;
+    z-index: 1;
+}
+.Imagen9{
+    position: relative;
+    top: 10px;
+    left: 60px;
+}
+.Imagen4{
+    position: relative;
+    top: 40px;
+    left: -600px;
+    z-index: -1;
+}
+.Imagen5{
+    position: relative;
+    top: -90px;
+    right: 430px;
+    z-index: -1;
+}
+.Imagen7{
+    position: relative;
+    top: -210px;
+    right: 410px;
+    z-index: -2;
+}
+.Imagen8{
+    position: relative;
+    left: -677px;
+    top: 600px;
+}
+.Imagen10{
+    position: relative;
+    left: -1300px;
+    top: 200px;
+}
+.firma{
+    background: #ffffff;
+    position: relative;
+    left: -280px;
+    top: 230px;
+    height: 80px;
+    width: 120px;
+    color: #000;
+    text-overflow: initial;
+}
+.total{
+    background: #ffffff;
+    position: relative;
+    left: 80px;
+    top:50px;
+    height: 80px;
+    width: 150px;
+    color: #000;
+    text-overflow: initial;
+    letter-spacing: 1px;
+}
